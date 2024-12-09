@@ -15,20 +15,10 @@
 ## 📊 访问统计
 <img src="https://profile-counter.glitch.me/qqw1584913629/count.svg" />
 
-## 🔥 项目状态
-<p>
-    <a href="https://github.com/qqw1584913629/MHFramework"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/qqw1584913629/MHFramework/stargazers"><img src="https://img.shields.io/github/stars/qqw1584913629/MHFramework.svg?logo=github"></a>
-    <a href="https://github.com/qqw1584913629/MHFramework/network/members"><img src="https://img.shields.io/github/forks/qqw1584913629/MHFramework.svg?color=blue&logo=github"></a>
-</p>
-
 ## 🛠️ 技术栈
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 🤝 联系我
-[![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/qqw1584913629)
 
 </div>
 
