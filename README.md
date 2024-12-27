@@ -8,8 +8,6 @@
     <div style="text-align: center;">
         <h2>🏆 我的统计</h2>
         <img width="400" src="https://github-readme-stats.vercel.app/api?username=qqw1584913629&show_icons=true&theme=tokyonight" />
-    </div>
-    <div style="text-align: center;">
         <h2>🚀 我常用的语言</h2>
         <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqw1584913629&layout=compact&theme=tokyonight" />
     </div>
