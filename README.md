@@ -1,8 +1,9 @@
 <div align="center">
     
 # 👋 你好，欢迎来到我的GitHub
+# 👋 Hello, welcome to my GitHub
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F90F7&center=true&vCenter=true&width=300&lines=热爱编程;永远保持学习的激情" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F90F7&center=true&vCenter=true&width=300&lines=热爱编程;Love programming;永远保持学习的激情;Always keep the passion for learning" alt="Typing SVG" />
 
 <div style="display: flex; align-items: flex-start; justify-content: center; gap: 10px;">
     <div style="text-align: center;">
