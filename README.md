@@ -11,7 +11,7 @@
 </div>
 
 <!-- 添加贪吃蛇贡献图 -->
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qqw1584913629/qqw1584913629/output/github-snake.gif" width="600"/>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qqw1584913629/qqw1584913629/output/github-snake.svg" width="600"/>
 
 
 <!-- 添加 3D 贡献图 -->
