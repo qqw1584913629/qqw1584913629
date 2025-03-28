@@ -19,6 +19,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=qqw1584913629&theme=onestar&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophy" />
 
 <!-- 添加贪吃蛇贡献图 -->
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qqw1584913629/qqw1584913629/output/dist/github-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qqw1584913629/qqw1584913629/output/github-snake.svg">
 
 </div>
