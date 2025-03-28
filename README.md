@@ -10,7 +10,7 @@
   <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=qqw1584913629&theme=react-dark&hide_border=true&area=true" />
 </div>
 <!-- 添加技能树 -->
-<img width="800" src="https://skillicons.dev/icons?i=cs,unity,git,github,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=cs,unity,git,github,visualstudio,vscode&perline=6&size=24" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=qqw1584913629&theme=onestar&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophy" />
 </div>
