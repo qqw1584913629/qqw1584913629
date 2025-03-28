@@ -9,13 +9,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: aelassas/snk/svg-only@main
+      - uses: actions/checkout@v3
+
+      - name: generate snake
+        uses: Platane/snk@v2
         with:
           github_user_name: qqw1584913629
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
