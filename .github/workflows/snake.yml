@@ -17,8 +17,11 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: qqw1584913629
-          svg_out_path: dist/github-snake.svg
-          gif_out_path: dist/github-snake.gif
+          svg_out_path: github-snake.svg
+          gif_out_path: github-snake.gif
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake.gif
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
