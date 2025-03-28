@@ -9,8 +9,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: generate snake
-        uses: Platane/snk/svg-only@v3
+      - name: generate github-contribution-grid-snake.svg
+        uses: aelassas/snk/svg-only@main
         with:
           github_user_name: qqw1584913629
           outputs: |
