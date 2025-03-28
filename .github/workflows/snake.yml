@@ -16,8 +16,8 @@ jobs:
         with:
           github_user_name: qqw1584913629
           outputs: |
-            dist/github-snake.gif?color_snake=green&color_dots=#4aff77,#37d461,#24aa4b,#117834,#00441d&background=#161b22
-            dist/github-snake.svg?color_snake=green&color_dots=#4aff77,#37d461,#24aa4b,#117834,#00441d&background=#161b22
+            dist/github-snake.svg
+            dist/github-snake.gif
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
