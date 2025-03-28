@@ -12,11 +12,12 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: generate snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: qqw1584913629
-          svg_out_path: dist/github-snake.svg
-          gif_out_path: dist/github-snake.gif
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake.gif
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
